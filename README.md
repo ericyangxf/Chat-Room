@@ -22,5 +22,5 @@ For example: "./Client -h 127.0.0.1 -p 17071" will start the client on port 1707
 A Makefile for compile is provided.<br />
 
 # License
-UDP-Pinger is released under the MIT License  
+Chat-Room is released under the MIT License  
 http://opensource.org/licenses/MIT
